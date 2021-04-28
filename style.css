@@ -44,6 +44,85 @@ nav{
   background: #1abc9c;
   color: white;
   font-size: 30px;
+}
+.home{
+  margin-top: 100px;
+  margin-left: 100px;
+      font-size: 30px;
+      
+}
+.home h1{
+  font-weight: 1;
+  line-height: 1.25;
+}
+#semanticimg{
+  width: 108px;
+  height: 108px;
+  border-radius: 50%;
+  float: left;
+}
+#semantics{
+  margin: 80px;
+  width: 34%;
+  float:left;
+  margin-bottom: 50px;
   
+}
+#semantics p{
+  font-size: 20px;
+  margin-bottom: 12px;
+  padding
+}
+
+#accimg{
   
+  width: 108px;
+  height: 108px;
+  border-radius: 50%;
+  float: left;
+}
+#acc{
+  margin: 80px;
+  width: 40%;
+  float: right;
+  
+}
+#acc p{
+  font-size: 20px;
+  margin-bottom: 12px;
+}
+#scaimg{
+  
+  width: 108px;
+  height: 108px;
+  border-radius: 50%;
+  float: left;
+}
+#scale{
+  margin: 80px;
+  width: 34%;
+  float:left;
+  
+}
+#scale p{
+  font-size: 20px;
+  margin-bottom: 12px;
+  padding
+}
+#ligimg{
+  
+  width: 108px;
+  height: 108px;
+  border-radius: 50%;
+  float: left;
+}
+#light{
+  margin: 85px;
+  width: 40%;
+  float: right;
+  
+}
+#light p{
+  font-size: 20px;
+  margin-bottom: 12px;
 }
