@@ -126,3 +126,12 @@ nav{
   font-size: 20px;
   margin-bottom: 12px;
 }
+.cus{
+  height: 140px;
+  background: #eee;
+  display: block;
+}
+#logos{
+  width: 1000px;
+  padding-left: 150px;
+  paddin
