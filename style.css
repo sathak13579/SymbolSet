@@ -135,3 +135,15 @@ nav{
   width: 1000px;
   padding-left: 150px;
   paddin
+}
+.wrapper{
+    margin: 48px;
+   
+    width: 100%;
+    max-width: 1048px;
+    
+    padding: 0 180px;
+}
+.wrapper a{
+      color: #ccc
+}
