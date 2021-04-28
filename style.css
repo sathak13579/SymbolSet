@@ -37,6 +37,9 @@ nav{
   font-weight: 300;
   line-height: 1.25;
 }
+
+
+
 .header {
   margin: 80px 0 0 0;
   padding: 60px;
@@ -146,4 +149,9 @@ nav{
 }
 .wrapper a{
       color: #ccc
+
+}
+nav a:hover {
+    
+    border-bottom: solid 1px green;
 }
